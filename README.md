@@ -2,6 +2,8 @@
 # Krishi Sahaayak – AI-Powered Crop Disease Detection and Recommendation System
 
 Krishi Sahaayak is an AI-powered platform designed to help farmers detect crop diseases and receive personalized crop recommendations based on environmental and soil parameters. The system utilizes deep learning and machine learning techniques to provide accurate and timely solutions for crop health management.
+![image](https://github.com/user-attachments/assets/0450c4e1-6dbf-4b1b-a618-8b3ec2a46397)
+
 
 ## Features
 
