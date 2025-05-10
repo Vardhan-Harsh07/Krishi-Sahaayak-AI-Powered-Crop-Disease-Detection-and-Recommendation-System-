@@ -30,10 +30,19 @@ Krishi Sahaayak is an AI-powered platform designed to help farmers detect crop d
 - OpenCV
 - XGBoost
 
-### Steps to Run the Project
+## Future Work
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-github-link
-   cd krishi-sahaayak
+- **IoT Integration**: Adding support for IoT devices to collect real-time environmental data for better recommendations.
+- **Mobile App**: A mobile app for easier access to the platform in rural areas.
+- **Disease Dataset Expansion**: Expand the model to cover more crops and diseases.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to the TensorFlow and Keras communities for providing the tools to build the deep learning models.
+- Thanks to the Flask community for enabling easy web deployment.
+
   
